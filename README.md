@@ -18,11 +18,6 @@ I like taking the tedious parts of operating systems at scale — pod lifecycle,
 | [devops-ecosystem](https://github.com/aravindavvaru/devops-ecosystem) | Self-hosted CI/CD playground: Tekton pipelines + Gitea on Kubernetes |
 | [Terraform-Modules](https://github.com/aravindavvaru/Terraform-Modules) | Reusable Terraform modules for common infrastructure patterns |
 
-## 📈 Stats
-
-![Aravind's GitHub stats](https://github-readme-stats.vercel.app/api?username=aravindavvaru&show_icons=true&theme=default&hide_rank=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aravindavvaru&layout=compact&hide=html,smarty)
-
 ## 📫 Reach me
 
 - 📍 Berlin, Germany
